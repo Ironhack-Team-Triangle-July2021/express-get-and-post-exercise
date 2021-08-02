@@ -25,12 +25,6 @@ app.get('/products', (req, res, next) => {
 });
 
 
-// app.get('/products/:categoryName', (req, res) => {
-
-//     res.render("products-list");
-// });
-
-
 
 
 app.listen(3000, () => console.log('App listening on port 3000!'));

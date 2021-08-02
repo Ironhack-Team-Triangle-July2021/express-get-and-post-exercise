@@ -2,6 +2,12 @@
 Basic exercise to refresh Express GET & POST.
 
 
+## Setup:
+
+- clone
+- run `npm i`
+
+
 ## Iteration 1:
 
 - Implement the functionality to list products of different categories (you will need to create a new route).
